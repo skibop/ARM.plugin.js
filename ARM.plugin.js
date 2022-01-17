@@ -5,8 +5,8 @@
  * @authorId 737069109484847174
  * @authorLink https://github.com/skibop
  * @version 0.0.1
- * @source https://raw.githubusercontent.com/somebody1234/userscripts/master/NRM.plugin.js
- * @updateUrl https://raw.githubusercontent.com/somebody1234/userscripts/master/NRM.plugin.js
+ * @source https://github.com/skibop/ARM.plugin.js/blob/main/ARM.plugin.js
+ * @updateUrl https://github.com/skibop/ARM.plugin.js/blob/main/ARM.plugin.js
  */
 module.exports = class NoReplyMention {
   start() {
